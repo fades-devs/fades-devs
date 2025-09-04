@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Welcome to my portfolio! I'm an aspiring software engineer with a focus on full-stack and web development.</h3>
+<h3 align="center">Welcome! I'm an aspiring software engineer with a focus on full-stack and web development.</h3>
 <p align="left">
   <br>- 📚 I'm currently a Computer Science student at the University of Dundee in Scotland, UK.
   <br>- 🔭 Since I shifted careers and started my CS journey, I worked on various projects (full-stack, web, APIs, databases..).
