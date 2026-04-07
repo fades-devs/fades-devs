@@ -66,9 +66,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://global.discourse-cdn.com/auth0/original/3X/c/e/cee75143e5fa28ad7eb95341839f4e9d6416506d.svg" height="40" alt="auth0 logo"  />
-  <img width="12" />
-  <img src="https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/stripe/index.html&backText=Return+to+VectorLogoZone" height="40" alt="auth0 logo"  />
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/auth0.svg" height="40" alt="auth0 logo"  />
   <img width="12" />
 
   <img src="https://git.mibew.org/Mibew/simple-icons/raw/commit/d0b116b70e68d2f22fca0b8d0913b756912de7be/icons/gamemaker.svg" height="40"   alt="gamemaker logo"  />
