@@ -25,19 +25,21 @@
 
 <div align="left">
 
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
@@ -45,15 +47,31 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/materialui/materialui-original.svg" height="40" alt="material logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://git.mibew.org/Mibew/simple-icons/raw/commit/d0b116b70e68d2f22fca0b8d0913b756912de7be/icons/gamemaker.svg" height="40" alt="gamemaker logo"  />
-  <img width="12" />
+  
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"   alt="aws logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/githubactions/githubactions-original.svg" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://global.discourse-cdn.com/auth0/original/3X/c/e/cee75143e5fa28ad7eb95341839f4e9d6416506d.svg" height="40" alt="auth0 logo"  />
+  <img width="12" />
+  <img src="https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/stripe/index.html&backText=Return+to+VectorLogoZone" height="40" alt="auth0 logo"  />
+  <img width="12" />
+
+  <img src="https://git.mibew.org/Mibew/simple-icons/raw/commit/d0b116b70e68d2f22fca0b8d0913b756912de7be/icons/gamemaker.svg" height="40"   alt="gamemaker logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
